@@ -1,3 +1,5 @@
+more stars = more updated sources
+
 # PasterX-Updated
 updated fortnite cheat (PasterX) by enigma solutions
 
